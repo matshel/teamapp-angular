@@ -11,3 +11,5 @@
 - Complex logic
 - Components
 - Pipes
+
+[![name](https://github.com/matshel/teamapp-angular/blob/master/src/teamapp-angular.PNG)]
